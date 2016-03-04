@@ -1,0 +1,6 @@
+# General
+*~
+*.log
+
+# C
+*.o
